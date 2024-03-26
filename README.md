@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sibaprasadmaharana
-- 👀 I’m interested in ... To Became a Data Scientinst 
+- 👀 I’m interested in ... To Became a Data Scientist 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Data Analysis Projects
 - 📫 How to reach me ... Sibamaharana19@gmail.com
